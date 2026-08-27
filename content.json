@@ -1,0 +1,135 @@
+{
+  "siteConfig": {
+    "hero": {
+      "characterImage": "Images/ui/nurse-bg.png",
+      "statusBadge": "3D Artist & Translator"
+    },
+    "socialLinks": {
+      "fluxerTag": "a6bysk#4846",
+      "email": "a6bysk.biz@outlook.com",
+      "paypalUrl": "https://paypal.me/AbigailSk",
+      "bluesky": "https://bsky.app/profile/a6bysk.bsky.social",
+      "twitter": "https://x.com/A6BYSK",
+      "instagram": "https://instagram.com/a6bysk"
+    }
+  },
+
+  "commissions": {
+    "status": "OPEN",
+    "slotsTaken": 0,
+    "slotsTotal": 0,
+    "priceTableImage": "Images/ui/tabla-precios.png"
+  },
+
+  "changelog": {
+    "date": "15 Feb 2026",
+    "badge": "Última actualización",
+    "featuredArtistId": "orangetart",
+    "workId": "ot-c1",
+    "episodeIndex": 1
+  },
+
+  "artVault": [
+    {
+      "id": "art-01",
+      "title": "Dommi Play Day",
+      "src": "Images/artvault/artrades/dommi play day.jpg",
+      "category": "artrade",
+      "year": 2026
+    },
+    {
+      "id": "art-02",
+      "title": "Robin Park Walk",
+      "src": "Images/artvault/artrades/Robin Park Walk.png",
+      "category": "artrade",
+      "year": 2026
+    },
+    {
+      "id": "art-03",
+      "title": "Mina Cobasky",
+      "src": "Images/artvault/artrades/Mina cobasky.png",
+      "category": "artrade",
+      "year": 2026
+    },
+    {
+      "id": "art-04",
+      "title": "Silly AB Momo",
+      "src": "Images/artvault/artrades/silly ab momo.jpg",
+      "category": "artrade",
+      "year": 2026
+    },
+    {
+      "id": "art-05",
+      "title": "After Break",
+      "src": "Images/artvault/originals/after brake.jpg",
+      "category": "original",
+      "year": 2026
+    },
+    {
+      "id": "art-06",
+      "title": "Baby Zoey",
+      "src": "Images/artvault/commissions/baby zoey.jpg",
+      "category": "commission",
+      "year": 2026
+    }
+  ],
+
+  "translations": {
+    "artists": [
+      {
+        "id": "orangetart",
+        "name": "Orangetart",
+        "pfp": "Images/translations/orangetart/avatar.jpg",
+        "socials": {
+          "x": "https://x.com",
+          "bluesky": "https://bsky.app"
+        },
+        "works": {
+          "comics": [
+            {
+              "id": "ot-c1",
+              "title": "Aventura en Pañales",
+              "cover": "Images/translations/orangetart/comics/1.png",
+              "episodes": [
+                {
+                  "name": "Episodio 1",
+                  "pages": [
+                    "Images/translations/orangetart/comics/1.png",
+                    "Images/translations/orangetart/comics/2.png"
+                  ]
+                },
+                {
+                  "name": "Episodio 2",
+                  "pages": [
+                    "Images/translations/orangetart/comics/3.png",
+                    "Images/translations/orangetart/comics/4.png"
+                  ]
+                }
+              ]
+            }
+          ],
+          "cortos": [
+            {
+              "id": "ot-s1",
+              "title": "Día Soleado",
+              "cover": "Images/translations/orangetart/cortos/corto1.png",
+              "pages": [
+                "Images/translations/orangetart/cortos/corto1.png"
+              ]
+            }
+          ],
+          "extras": [
+            {
+              "id": "ot-e1",
+              "title": "Bocetos de Personaje",
+              "cover": "Images/translations/orangetart/extras/extra1.png",
+              "pages": [
+                "Images/translations/orangetart/extras/extra1.png"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
